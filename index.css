@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20250328/pngtree-digital-money-bag-and-coins-futuristic-finance-image_17151817.jpg");
+    height: 40vh;
+    background-size: cover;
+}
+
+.button {
+    background-color: #b8a925;
+    margin: 8px;
+    height: 30px;
+    width: 35px;
+    border-radius: 8px;
+    color: white;
+    border-width: 0px;
+}
+
+.bg-description {
+    text-align: center;
+    padding: 38px;
+}
+
+.paragraph {
+    color: white;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.paragraph1 {
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.paragraph2 {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bg-container1 {
+    background-color: black;
+}
+
+.heading {
+    color: white;
+    font-size: 13px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.bg-image {
+    background-color: #d6d2b6;
+    border-radius: 40px;
+
+    width: 40px;
+    height: 35px;
+}
+
+.heading1 {
+    color: white;
+    font-size: 13px;
+    padding: 13px;
+}
+
+.bg-container2 {
+    background-color: #3d362b;
+    border-radius: 15px;
+    margin: 15px;
+    border-style: solid;
+    border-color: #635d5e;
+}
+
+.heading2 {
+    color: white;
+    font-size: 13px;
+    padding: 8px;
+    font-weight: bold;
+}
+
+.heading3 {
+    color: white;
+    font-size: 13px;
+    padding: 15px;
+}
+
+.card-container {
+    text-align: center;
+}
+
+.heading4 {
+    color: white;
+    font-size: 13px;
+    padding: 19px;
+}
+
+.heading5 {
+    color: #34a0cf;
+    font-size: 13px;
+    padding-left: 155px;
+    padding-top: 8px;
+}
+
+.bg-container3 {
+    background-color: #3d362b;
+    border-radius: 15px;
+    margin: 18px;
+    width: 135px;
+    height: 65px;
+    border-style: solid;
+    border-color: #635d5e;
+
+}
+
+.inside-des {
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+.paragraph3 {
+    color: white;
+    font-size: 11px;
+}
+
+.heading7 {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.paragraph4 {
+    color: white;
+    font-size: 11px;
+    background-color: #7966ba;
+    width: 40px;
+    height: 18px;
+    padding-left: 7px;
+    border-radius: 5px;
+}
+
+.bg-container99 {
+    background-color: #1b1b1b;
+    height: 120vh;
+    padding: 15px;
+    font-family: Roboto;
+}
+
+.image99 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+}
+
+.heading99 {
+    color: white;
+    font-size: 23px;
+    padding-top: 22px;
+    font-weight: bold;
+}
+
+.para99 {
+    color: white;
+    font-size: 15px;
+}
+
+.para98 {
+    color: #1b1b1b;
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+.bg-container98 {
+    background-color: #ffffff;
+    border-radius: 35px;
+
+}
+
+.image98 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    margin: 12px;
+}
+
+.bg-container97 {
+    background-color: #3d362b;
+    border-radius: 15px;
+    margin-top: 18px;
+}
+
+.image97 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    margin: 12px;
+}
+
+.heading97 {
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 12px;
+    padding-left: 10px;
+}
+
+.para97 {
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.bg-image97 {
+    background-color: #d6d2b6;
+    border-radius: 40px;
+    width: 40px;
+    height: 35px;
+    margin: 18px;
+}
+
+.para96 {
+    color: #ffffff;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-top: 38px;
+}
+
+.image99 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.para95 {
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.heading96 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.image95 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    border-color: #ab966c;
+    border-style: solid;
+    margin: 12px;
+}
+
+.image94 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    border-color: #7d30b8;
+    border-style: solid;
+    margin: 12px;
+}
+
+.image93 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    border-color: #b58a4e;
+    border-style: solid;
+    margin: 12px;
+}
+
+.image92 {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    border-color: #408c3f;
+    border-style: solid;
+    margin: 12px;
+}
